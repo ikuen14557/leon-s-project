@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 71c64aa8c5256a84d9fd981b9f07b106
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5618959069683199669
+    second: "QQ\u56FE\u724720240401101111_0"
+  - first:
+      213: 5210639424681160323
+    second: "QQ\u56FE\u724720240401101111_1"
+  - first:
+      213: 3097674926799857198
+    second: "QQ\u56FE\u724720240401101111_2"
+  - first:
+      213: -27009867060347316
+    second: "QQ\u56FE\u724720240401101111_3"
+  - first:
+      213: -3846191678197328520
+    second: "QQ\u56FE\u724720240401101111_4"
+  - first:
+      213: -8886744346581045365
+    second: "QQ\u56FE\u724720240401101111_5"
+  - first:
+      213: 1290204069361500866
+    second: "QQ\u56FE\u724720240401101111_6"
+  - first:
+      213: 1299811263082899141
+    second: "QQ\u56FE\u724720240401101111_7"
+  - first:
+      213: -6295915332174952346
+    second: "QQ\u56FE\u724720240401101111_8"
+  - first:
+      213: 231281856149866745
+    second: "QQ\u56FE\u724720240401101111_9"
+  - first:
+      213: -2733418363920891660
+    second: "QQ\u56FE\u724720240401101111_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fangzi_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 435
+        width: 172
+        height: 156
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f686e9ec8e1558640aea90473515fa9d
+      internalID: -829682576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 435
+        width: 146
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d03dcaaed3d19409ac0c7870feef1f
+      internalID: -164596110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 435
+        width: 168
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70085c465187b0545b3c8589f44d53b7
+      internalID: -1707465688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 40
+        width: 298
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f224fa2c555244cae80f7d7351b082
+      internalID: -1417415393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_4
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 40
+        width: 159
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330b20320ca31ab41a6b8d7d506a8c74
+      internalID: -1835190457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 237
+        width: 167
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b626c6feee33a649a440b56930d54e6
+      internalID: 335610967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 231
+        width: 180
+        height: 166
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a958a6a355a07e4a8055cb238247657
+      internalID: -903099846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 237
+        width: 173
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8fe8767a84f744fb8635b7ad027e44
+      internalID: -328034577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 40
+        width: 192
+        height: 178
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1e76233fd07c04b831e1f48a96d637
+      internalID: 341135367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 39
+        width: 118
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c38442411bb97f49852b5e6cbf484db
+      internalID: 134588466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fangzi_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 39
+        width: 213
+        height: 165
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c5c31f71112546afcad3cc61b4282
+      internalID: -1733769594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 01c02930d532b6e408aac1d0f5943849
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fangzi_0: -829682576
+      fangzi_1: -164596110
+      fangzi_10: -1733769594
+      fangzi_2: -1707465688
+      fangzi_3: -1417415393
+      fangzi_4: -1835190457
+      fangzi_5: 335610967
+      fangzi_6: -903099846
+      fangzi_7: -328034577
+      fangzi_8: 341135367
+      fangzi_9: 134588466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

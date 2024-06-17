@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 982d21e4d15a2a34d8622a55c149746f, type: 3}
+  m_Name: Map2
+  m_EditorClassIdentifier: 
+  itemName: 
+  itemImage: {fileID: -2775960712326717902, guid: 313a2e1524fdec64a953e7dcb8f5ae84, type: 3}
+  itemHeld: 0
+  itemInfo: "\u5C11\u5E7F\u7BC7\r\n\r\u672C\u7BC7\u4E3B\u8981\u7814\u7A76\u6C42\u89E3\u4E0E\u957F\u5BBD\u9AD8\u5EA6\u6709\u5173\u7684\u95EE\u9898\u3002\r\n\u5305\u62EC\u6C42\u5706\u67F1\u4F53\u3001\u5706\u9525\u4F53\u548C\u7403\u4F53\u7684\u4F53\u79EF\uFF0C\u4EE5\u53CA\u6C42\u957F\u65B9\u4F53\u3001\u6B63\u65B9\u4F53\u548C\u7403\u4F53\u7684\u8868\u9762"
+  equip: 0

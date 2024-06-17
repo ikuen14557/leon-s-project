@@ -1,0 +1,5364 @@
+fileFormatVersion: 2
+guid: 5109c4e2f3c918746b310fb1a1a498f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8149840523686460492
+    second: protagonist_universal_0
+  - first:
+      213: 8721147933951500949
+    second: protagonist_universal_1
+  - first:
+      213: -4370365327480415052
+    second: protagonist_universal_2
+  - first:
+      213: 5223009855578135477
+    second: protagonist_universal_3
+  - first:
+      213: -4336758955653642623
+    second: protagonist_universal_4
+  - first:
+      213: -8925812805114710443
+    second: protagonist_universal_5
+  - first:
+      213: -1251249764579885211
+    second: protagonist_universal_6
+  - first:
+      213: -237192977017921078
+    second: protagonist_universal_7
+  - first:
+      213: 538922462007478646
+    second: protagonist_universal_8
+  - first:
+      213: 5016261480931127394
+    second: protagonist_universal_9
+  - first:
+      213: -8136483622324791457
+    second: protagonist_universal_10
+  - first:
+      213: -4412651507856495110
+    second: protagonist_universal_11
+  - first:
+      213: 8443677182820495432
+    second: protagonist_universal_12
+  - first:
+      213: -7125543641947149840
+    second: protagonist_universal_13
+  - first:
+      213: 4756263031951143991
+    second: protagonist_universal_14
+  - first:
+      213: -3504889067100078782
+    second: protagonist_universal_15
+  - first:
+      213: -5744706523425578293
+    second: protagonist_universal_16
+  - first:
+      213: 7633124019280732023
+    second: protagonist_universal_17
+  - first:
+      213: 4063638943670159768
+    second: protagonist_universal_18
+  - first:
+      213: -3307389439715107147
+    second: protagonist_universal_19
+  - first:
+      213: -7875959031195865829
+    second: protagonist_universal_20
+  - first:
+      213: 3208313208446992947
+    second: protagonist_universal_21
+  - first:
+      213: 8951686677535899589
+    second: protagonist_universal_22
+  - first:
+      213: -7700600906306701429
+    second: protagonist_universal_23
+  - first:
+      213: 7785922163610610890
+    second: protagonist_universal_24
+  - first:
+      213: -3854511448619931262
+    second: protagonist_universal_25
+  - first:
+      213: -7914930039099229849
+    second: protagonist_universal_26
+  - first:
+      213: 3045637775703598975
+    second: protagonist_universal_27
+  - first:
+      213: 3100041604231422193
+    second: protagonist_universal_28
+  - first:
+      213: -8606036765027591367
+    second: protagonist_universal_29
+  - first:
+      213: -1061463016548867688
+    second: protagonist_universal_30
+  - first:
+      213: -2552175931789642250
+    second: protagonist_universal_31
+  - first:
+      213: 2154750199472053825
+    second: protagonist_universal_32
+  - first:
+      213: 3171621915264665634
+    second: protagonist_universal_33
+  - first:
+      213: 2860219105790126865
+    second: protagonist_universal_34
+  - first:
+      213: -1795435000530494368
+    second: protagonist_universal_35
+  - first:
+      213: 5148917465936049302
+    second: protagonist_universal_36
+  - first:
+      213: 8556859940832869835
+    second: protagonist_universal_37
+  - first:
+      213: 3376467720326630881
+    second: protagonist_universal_38
+  - first:
+      213: 813525997452073359
+    second: protagonist_universal_39
+  - first:
+      213: -1280472908284044250
+    second: protagonist_universal_40
+  - first:
+      213: -2296722534668008041
+    second: protagonist_universal_41
+  - first:
+      213: -1664845339851186713
+    second: protagonist_universal_42
+  - first:
+      213: 7694207771374119098
+    second: protagonist_universal_43
+  - first:
+      213: 4058697122705502188
+    second: protagonist_universal_44
+  - first:
+      213: -3728413858368660941
+    second: protagonist_universal_45
+  - first:
+      213: -267887544507768935
+    second: protagonist_universal_46
+  - first:
+      213: -6836233374197382801
+    second: protagonist_universal_47
+  - first:
+      213: 7961050525609283411
+    second: protagonist_universal_48
+  - first:
+      213: -7031341229726529781
+    second: protagonist_universal_49
+  - first:
+      213: 4196450877287770069
+    second: protagonist_universal_50
+  - first:
+      213: 5129722490750785044
+    second: protagonist_universal_51
+  - first:
+      213: 2886323623347154625
+    second: protagonist_universal_52
+  - first:
+      213: 3512263041216202345
+    second: protagonist_universal_53
+  - first:
+      213: -629106432006769884
+    second: protagonist_universal_54
+  - first:
+      213: 5832565446554031431
+    second: protagonist_universal_55
+  - first:
+      213: 1277169330999804090
+    second: protagonist_universal_56
+  - first:
+      213: -6876753772068450868
+    second: protagonist_universal_57
+  - first:
+      213: 137616781482391821
+    second: protagonist_universal_58
+  - first:
+      213: 5452203737033208039
+    second: protagonist_universal_59
+  - first:
+      213: -7001981079325495518
+    second: protagonist_universal_60
+  - first:
+      213: -4898351622673671798
+    second: protagonist_universal_61
+  - first:
+      213: -8498231576613890470
+    second: protagonist_universal_62
+  - first:
+      213: 2955487795706672258
+    second: protagonist_universal_63
+  - first:
+      213: -7319370624280452664
+    second: protagonist_universal_64
+  - first:
+      213: 9064706784152957714
+    second: protagonist_universal_65
+  - first:
+      213: 691990755077495759
+    second: protagonist_universal_66
+  - first:
+      213: 7225278677183255394
+    second: protagonist_universal_67
+  - first:
+      213: -3491410845976474894
+    second: protagonist_universal_68
+  - first:
+      213: -2065385707422866205
+    second: protagonist_universal_69
+  - first:
+      213: -1116600029221165159
+    second: protagonist_universal_70
+  - first:
+      213: -7451945553310201768
+    second: protagonist_universal_71
+  - first:
+      213: -3774391600127634929
+    second: protagonist_universal_72
+  - first:
+      213: 2781035162265048823
+    second: protagonist_universal_73
+  - first:
+      213: 1278951191373319527
+    second: protagonist_universal_74
+  - first:
+      213: 4159931942982582336
+    second: protagonist_universal_75
+  - first:
+      213: -629684178637640454
+    second: protagonist_universal_76
+  - first:
+      213: -6856715801228392050
+    second: protagonist_universal_77
+  - first:
+      213: 7468620004642165916
+    second: protagonist_universal_78
+  - first:
+      213: 1112818805395439749
+    second: protagonist_universal_79
+  - first:
+      213: 1583973200496205777
+    second: protagonist_universal_80
+  - first:
+      213: -395570816153324415
+    second: protagonist_universal_81
+  - first:
+      213: 9183346451390538697
+    second: protagonist_universal_82
+  - first:
+      213: 4767823540559537979
+    second: protagonist_universal_83
+  - first:
+      213: 2859159536334939266
+    second: protagonist_universal_84
+  - first:
+      213: -6363452872713304325
+    second: protagonist_universal_85
+  - first:
+      213: 6264099898962046458
+    second: protagonist_universal_86
+  - first:
+      213: -663900991684359674
+    second: protagonist_universal_87
+  - first:
+      213: 9101909436713282591
+    second: protagonist_universal_88
+  - first:
+      213: -2509952443506067716
+    second: protagonist_universal_89
+  - first:
+      213: -4584986280386405049
+    second: protagonist_universal_90
+  - first:
+      213: 8168822763892440384
+    second: protagonist_universal_91
+  - first:
+      213: 5671059057125400687
+    second: protagonist_universal_92
+  - first:
+      213: -2485756209698556361
+    second: protagonist_universal_93
+  - first:
+      213: 6667381294599746281
+    second: protagonist_universal_94
+  - first:
+      213: 6862380933549563500
+    second: protagonist_universal_95
+  - first:
+      213: -5731118223080008223
+    second: protagonist_universal_96
+  - first:
+      213: -4287293779920702692
+    second: protagonist_universal_97
+  - first:
+      213: 5923018793129322884
+    second: protagonist_universal_98
+  - first:
+      213: 4557077384448677867
+    second: protagonist_universal_99
+  - first:
+      213: -2986217141991907066
+    second: protagonist_universal_100
+  - first:
+      213: -6863947480744512215
+    second: protagonist_universal_101
+  - first:
+      213: 7108498709014238961
+    second: protagonist_universal_102
+  - first:
+      213: -7187008244464507942
+    second: protagonist_universal_103
+  - first:
+      213: 6782028470242082040
+    second: protagonist_universal_104
+  - first:
+      213: 2872478874089303151
+    second: protagonist_universal_105
+  - first:
+      213: -4554916069435612536
+    second: protagonist_universal_106
+  - first:
+      213: -259166065472938670
+    second: protagonist_universal_107
+  - first:
+      213: -6981730568168930416
+    second: protagonist_universal_108
+  - first:
+      213: -5977094141077998212
+    second: protagonist_universal_109
+  - first:
+      213: 7136470920263570298
+    second: protagonist_universal_110
+  - first:
+      213: 7954636240928112554
+    second: protagonist_universal_111
+  - first:
+      213: 2610453255316988141
+    second: protagonist_universal_112
+  - first:
+      213: 5135279244227986286
+    second: protagonist_universal_113
+  - first:
+      213: -5767736879370929023
+    second: protagonist_universal_114
+  - first:
+      213: -8502939256266141756
+    second: protagonist_universal_115
+  - first:
+      213: 5923759001594891430
+    second: protagonist_universal_116
+  - first:
+      213: 7660112306454256429
+    second: protagonist_universal_117
+  - first:
+      213: -3217879091651064795
+    second: protagonist_universal_118
+  - first:
+      213: 4564258315811824126
+    second: protagonist_universal_119
+  - first:
+      213: 6679460428298138936
+    second: protagonist_universal_120
+  - first:
+      213: 2102342015931340641
+    second: protagonist_universal_121
+  - first:
+      213: 5728306793485912178
+    second: protagonist_universal_122
+  - first:
+      213: -4497489218572237056
+    second: protagonist_universal_123
+  - first:
+      213: 7504295152552703292
+    second: protagonist_universal_124
+  - first:
+      213: -3974741365385081874
+    second: protagonist_universal_125
+  - first:
+      213: -3791109730634251531
+    second: protagonist_universal_126
+  - first:
+      213: 7703452903350669232
+    second: protagonist_universal_127
+  - first:
+      213: 8898439690618614135
+    second: protagonist_universal_128
+  - first:
+      213: 2697408410447922404
+    second: protagonist_universal_129
+  - first:
+      213: 3131986661464290386
+    second: protagonist_universal_130
+  - first:
+      213: 6504057574443561369
+    second: protagonist_universal_131
+  - first:
+      213: 1682482378600063014
+    second: protagonist_universal_132
+  - first:
+      213: 7617442423202554510
+    second: protagonist_universal_133
+  - first:
+      213: -1313723196831571690
+    second: protagonist_universal_134
+  - first:
+      213: 6054338642178508219
+    second: protagonist_universal_135
+  - first:
+      213: -8419427398413697833
+    second: protagonist_universal_136
+  - first:
+      213: 6859887144124651082
+    second: protagonist_universal_137
+  - first:
+      213: -3655179489993805317
+    second: protagonist_universal_138
+  - first:
+      213: 3810559039352383794
+    second: protagonist_universal_139
+  - first:
+      213: 3859807396751225987
+    second: protagonist_universal_140
+  - first:
+      213: 1234636922164287053
+    second: protagonist_universal_141
+  - first:
+      213: 5928934472265592203
+    second: protagonist_universal_142
+  - first:
+      213: 3280102108428756890
+    second: protagonist_universal_143
+  - first:
+      213: -3310532831602139481
+    second: protagonist_universal_144
+  - first:
+      213: -3752149764910029773
+    second: protagonist_universal_145
+  - first:
+      213: 2305365743495413407
+    second: protagonist_universal_146
+  - first:
+      213: -6918806584925697930
+    second: protagonist_universal_147
+  - first:
+      213: 5629922144917682587
+    second: protagonist_universal_148
+  - first:
+      213: -1717052186249897748
+    second: protagonist_universal_149
+  - first:
+      213: -6476008009444137956
+    second: protagonist_universal_150
+  - first:
+      213: -2491979944999332202
+    second: protagonist_universal_151
+  - first:
+      213: -5368856088076423034
+    second: protagonist_universal_152
+  - first:
+      213: 6095408514259602257
+    second: protagonist_universal_153
+  - first:
+      213: -8171843382364013011
+    second: protagonist_universal_154
+  - first:
+      213: -2975954044655628461
+    second: protagonist_universal_155
+  - first:
+      213: -7430007542798140441
+    second: protagonist_universal_156
+  - first:
+      213: -3305496300869264840
+    second: protagonist_universal_157
+  - first:
+      213: 612905750833772981
+    second: protagonist_universal_158
+  - first:
+      213: -2267255313343037358
+    second: protagonist_universal_159
+  - first:
+      213: -9066264025271090201
+    second: protagonist_universal_160
+  - first:
+      213: -3826249452837466114
+    second: protagonist_universal_161
+  - first:
+      213: -7579563043238136214
+    second: protagonist_universal_162
+  - first:
+      213: 4649740156221723989
+    second: protagonist_universal_163
+  - first:
+      213: -3972632797134495687
+    second: protagonist_universal_164
+  - first:
+      213: 5734765021725251770
+    second: protagonist_universal_165
+  - first:
+      213: -6397238582277507758
+    second: protagonist_universal_166
+  - first:
+      213: 6333036760482256894
+    second: protagonist_universal_167
+  - first:
+      213: 781505793923748203
+    second: protagonist_universal_168
+  - first:
+      213: 4735714294562398064
+    second: protagonist_universal_169
+  - first:
+      213: -8152322437459031158
+    second: protagonist_universal_170
+  - first:
+      213: -4698508890354225894
+    second: protagonist_universal_171
+  - first:
+      213: -4962626968040382598
+    second: protagonist_universal_172
+  - first:
+      213: -7669800636183835615
+    second: protagonist_universal_173
+  - first:
+      213: -2188223691213186857
+    second: protagonist_universal_174
+  - first:
+      213: -4837818188663015254
+    second: protagonist_universal_175
+  - first:
+      213: 1407108700988297959
+    second: protagonist_universal_176
+  - first:
+      213: 1071310283007809663
+    second: protagonist_universal_177
+  - first:
+      213: 7571833489344723127
+    second: protagonist_universal_178
+  - first:
+      213: -7147937571133360385
+    second: protagonist_universal_179
+  - first:
+      213: 7884740478437987357
+    second: protagonist_universal_180
+  - first:
+      213: 8312637491015637903
+    second: protagonist_universal_181
+  - first:
+      213: -5605905606363336734
+    second: protagonist_universal_182
+  - first:
+      213: 6543422776715989355
+    second: protagonist_universal_183
+  - first:
+      213: -7162662066416820080
+    second: protagonist_universal_184
+  - first:
+      213: 6018332513183344461
+    second: protagonist_universal_185
+  - first:
+      213: 2592107181905432645
+    second: protagonist_universal_186
+  - first:
+      213: 7509486528997318218
+    second: protagonist_universal_187
+  - first:
+      213: 2636616286468488208
+    second: protagonist_universal_188
+  - first:
+      213: 5779730354790782012
+    second: protagonist_universal_189
+  - first:
+      213: 6606954783526709243
+    second: protagonist_universal_190
+  - first:
+      213: -8191014555800324047
+    second: protagonist_universal_191
+  - first:
+      213: 4829941260694381376
+    second: protagonist_universal_192
+  - first:
+      213: 7607894736064481167
+    second: protagonist_universal_193
+  - first:
+      213: -657460786801876383
+    second: protagonist_universal_194
+  - first:
+      213: -91628586555287711
+    second: protagonist_universal_195
+  - first:
+      213: 7813625237622181924
+    second: protagonist_universal_196
+  - first:
+      213: -1705570816446733102
+    second: protagonist_universal_197
+  - first:
+      213: -3242522189929935204
+    second: protagonist_universal_198
+  - first:
+      213: -2366288591691509849
+    second: protagonist_universal_199
+  - first:
+      213: -3389482847831138364
+    second: protagonist_universal_200
+  - first:
+      213: -4585604144892541047
+    second: protagonist_universal_201
+  - first:
+      213: 8817663291947779452
+    second: protagonist_universal_202
+  - first:
+      213: -2652944097474449728
+    second: protagonist_universal_203
+  - first:
+      213: 701628123574583788
+    second: protagonist_universal_204
+  - first:
+      213: -8043875727345722755
+    second: protagonist_universal_205
+  - first:
+      213: -2860974356607233826
+    second: protagonist_universal_206
+  - first:
+      213: 6906145307208801782
+    second: protagonist_universal_207
+  - first:
+      213: 8716807439575009161
+    second: protagonist_universal_208
+  - first:
+      213: 4304323890472933546
+    second: protagonist_universal_209
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: protagonist_universal_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1282
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c3a6ec6cc0a1170800000000000000
+      internalID: 8149840523686460492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1282
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592afccd6ddb70970800000000000000
+      internalID: 8721147933951500949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1282
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc98dcc3e75953c0800000000000000
+      internalID: -4370365327480415052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1282
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb591c7acbdb7840800000000000000
+      internalID: 5223009855578135477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1282
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18645cbf4bcb0d3c0800000000000000
+      internalID: -4336758955653642623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 44
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55631837b84212480800000000000000
+      internalID: -8925812805114710443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1282
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fbce0f7faa2aee0800000000000000
+      internalID: -1251249764579885211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac121ad7e3255bcf0800000000000000
+      internalID: -237192977017921078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6794f65bf13aa7700800000000000000
+      internalID: 538922462007478646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1218
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ff575d375d9540800000000000000
+      internalID: 5016261480931127394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f571c822147651f80800000000000000
+      internalID: -8136483622324791457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd2f9435dc13c2c0800000000000000
+      internalID: -4412651507856495110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840361849a7fd2570800000000000000
+      internalID: 8443677182820495432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f962367fcbfc1d90800000000000000
+      internalID: -7125543641947149840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1154
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73435cd1704a10240800000000000000
+      internalID: 4756263031951143991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1154
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d795296f12c5fc0800000000000000
+      internalID: -3504889067100078782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1154
+        width: 26
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2695c8ad3b640b0800000000000000
+      internalID: -5744706523425578293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1154
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fdabf7add4ee960800000000000000
+      internalID: 7633124019280732023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1154
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89947e4d612f46830800000000000000
+      internalID: 4063638943670159768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1154
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be17efe3dac912d0800000000000000
+      internalID: -3307389439715107147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1154
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d6a006df8f2b290800000000000000
+      internalID: -7875959031195865829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1090
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3324dad5dd7368c20800000000000000
+      internalID: 3208313208446992947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1090
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfbf1bea97ca3c70800000000000000
+      internalID: 8951686677535899589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_23
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1090
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87b9867648f12590800000000000000
+      internalID: -7700600906306701429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acce9dac4f62d0c60800000000000000
+      internalID: 7785922163610610890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1090
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28925527246028ac0800000000000000
+      internalID: -3854511448619931262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1090
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769fb658015882290800000000000000
+      internalID: -7914930039099229849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1090
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77e257ab67444a20800000000000000
+      internalID: 3045637775703598975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1026
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f065211a6f850b20800000000000000
+      internalID: 3100041604231422193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b1490b827319880800000000000000
+      internalID: -8606036765027591367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e364a20de441f0800000000000000
+      internalID: -1061463016548867688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f570651389d49cd0800000000000000
+      internalID: -2552175931789642250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14edb3bd3e537ed10800000000000000
+      internalID: 2154750199472053825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c135f35dd30c20800000000000000
+      internalID: 3171621915264665634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1024
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11be7646f1a81b720800000000000000
+      internalID: 2860219105790126865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c931031655517e0800000000000000
+      internalID: -1795435000530494368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 962
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6943ce6b721a47740800000000000000
+      internalID: 5148917465936049302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdfc1ea7c210c670800000000000000
+      internalID: 8556859940832869835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed44a9908f9bde20800000000000000
+      internalID: 3376467720326630881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 962
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891dad95993a4b00800000000000000
+      internalID: 813525997452073359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cd7359ca8da3ee0800000000000000
+      internalID: -1280472908284044250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7958a75f5076020e0800000000000000
+      internalID: -2296722534668008041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed9430fbf745e8e0800000000000000
+      internalID: -1664845339851186713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 962
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8edc0d33157ca60800000000000000
+      internalID: 7694207771374119098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 898
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefe2c97783635830800000000000000
+      internalID: 4058697122705502188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 898
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ada4c8953024cc0800000000000000
+      internalID: -3728413858368660941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 899
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fdcd592b5484cf0800000000000000
+      internalID: -267887544507768935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f618b4157f1d021a0800000000000000
+      internalID: -6836233374197382801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 899
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fc0e906455b7e60800000000000000
+      internalID: 7961050525609283411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 899
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07879bb768ab6e90800000000000000
+      internalID: -7031341229726529781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 899
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72d12d6d9cc3a30800000000000000
+      internalID: 4196450877287770069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41658894d6f603740800000000000000
+      internalID: 5129722490750785044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 834
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceec640b084e0820800000000000000
+      internalID: 2886323623347154625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 834
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966cc6190a01eb030800000000000000
+      internalID: 3512263041216202345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423b2528807f447f0800000000000000
+      internalID: -629106432006769884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74512131f5f61f050800000000000000
+      internalID: 5832565446554031431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 834
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab044446dba69b110800000000000000
+      internalID: 1277169330999804090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 834
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd480001ecd090a0800000000000000
+      internalID: -6876753772068450868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 834
+        width: 29
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f36fcbb9e8e100800000000000000
+      internalID: 137616781482391821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 26
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0fbec696e1aab40800000000000000
+      internalID: 5452203737033208039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 770
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f2cc27e47f3de90800000000000000
+      internalID: -7001981079325495518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 770
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d399d62f850cb0800000000000000
+      internalID: -4898351622673671798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 769
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56dbe81867301a80800000000000000
+      internalID: -8498231576613890470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_63
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 768
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2843919cd70040920800000000000000
+      internalID: 2955487795706672258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 769
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1a558623f5c6a90800000000000000
+      internalID: -7319370624280452664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 770
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213b2861bce4ccd70800000000000000
+      internalID: 9064706784152957714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 769
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9f38ece17a9900800000000000000
+      internalID: 691990755077495759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 768
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26356bcfca8554460800000000000000
+      internalID: 7225278677183255394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 769
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa40a875540c8fc0800000000000000
+      internalID: -3491410845976474894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 770
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e424e854a64653e0800000000000000
+      internalID: -2065385707422866205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_70
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 770
+        width: 28
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997e41e703a0180f0800000000000000
+      internalID: -1116600029221165159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858c469500f559890800000000000000
+      internalID: -7451945553310201768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 706
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f029c2756daae9bc0800000000000000
+      internalID: -3774391600127634929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_73
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6ddaadeb8389620800000000000000
+      internalID: 2781035162265048823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_74
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8ed6155fbfb110800000000000000
+      internalID: 1278951191373319527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0400747df0c0bb930800000000000000
+      internalID: 4159931942982582336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcae936399e247f0800000000000000
+      internalID: -629684178637640454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_77
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8949f5ae4d08d0a0800000000000000
+      internalID: -6856715801228392050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_78
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c949213e25ed5a760800000000000000
+      internalID: 7468620004642165916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_79
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58048fabec6817f00800000000000000
+      internalID: 1112818805395439749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_80
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 706
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df905dcb376bf510800000000000000
+      internalID: 1583973200496205777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_81
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 706
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1847ba34076a28af0800000000000000
+      internalID: -395570816153324415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 642
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c32a7c21fcc17f70800000000000000
+      internalID: 9183346451390538697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 642
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ebc6cf36ba2240800000000000000
+      internalID: 4767823540559537979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_84
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2842a672376cda720800000000000000
+      internalID: 2859159536334939266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 641
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf60cf8c35970b7a0800000000000000
+      internalID: -6363452872713304325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 641
+        width: 28
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd61336bad8ee650800000000000000
+      internalID: 6264099898962046458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 642
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60acf98c09959c6f0800000000000000
+      internalID: -663900991684359674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 641
+        width: 27
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c2211a86a705e70800000000000000
+      internalID: 9101909436713282591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_89
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 641
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf672b90d8bda2dd0800000000000000
+      internalID: -2509952443506067716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_90
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 641
+        width: 28
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d5781354bde50c0800000000000000
+      internalID: -4584986280386405049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_91
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 642
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dfee2060d7d5170800000000000000
+      internalID: 8168822763892440384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_92
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 642
+        width: 28
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60a8387a26a3be40800000000000000
+      internalID: 5671059057125400687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 578
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73632bab5e1d08dd0800000000000000
+      internalID: -2485756209698556361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_94
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 578
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b3be46fb478c50800000000000000
+      internalID: 6667381294599746281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_95
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 579
+        width: 25
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e92a1c9131c3f50800000000000000
+      internalID: 6862380933549563500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_96
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 579
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e55c83475af670b0800000000000000
+      internalID: -5731118223080008223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_97
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13b510b5097084c0800000000000000
+      internalID: -4287293779920702692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_98
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 578
+        width: 27
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489af6af53ac23250800000000000000
+      internalID: 5923018793129322884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_99
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7970a9cbdfd3f30800000000000000
+      internalID: 4557077384448677867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_100
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 578
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e36db453de86d0800000000000000
+      internalID: -2986217141991907066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_101
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 578
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925394d022c5eb0a0800000000000000
+      internalID: -6863947480744512215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_102
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 578
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6dd15d9e576a260800000000000000
+      internalID: 7108498709014238961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_103
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 578
+        width: 25
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3a3ee741e924c90800000000000000
+      internalID: -7187008244464507942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_104
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 514
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc7d5106fa9e1e50800000000000000
+      internalID: 6782028470242082040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_105
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 514
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c28e221581dd720800000000000000
+      internalID: 2872478874089303151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_106
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 514
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8826293c7ffa9c0c0800000000000000
+      internalID: -4554916069435612536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_107
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d56a926d1476cf0800000000000000
+      internalID: -259166065472938670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_108
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 514
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930ecef909eb1f90800000000000000
+      internalID: -6981730568168930416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_109
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 514
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c753af3fb881d0da0800000000000000
+      internalID: -5977094141077998212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_110
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 514
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a731738cd76d90360800000000000000
+      internalID: 7136470920263570298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_111
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 514
+        width: 36
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff7f1048b846e60800000000000000
+      internalID: 7954636240928112554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_112
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 514
+        width: 33
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de06ee9a7613a3420800000000000000
+      internalID: 2610453255316988141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_113
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 514
+        width: 26
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6345a6c34d244740800000000000000
+      internalID: 5135279244227986286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_114
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 514
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cfc23fdd1e4ffa0800000000000000
+      internalID: -5767736879370929023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_115
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 514
+        width: 26
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf48830ccd7ff980800000000000000
+      internalID: -8502939256266141756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_116
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 450
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac06113d6b653250800000000000000
+      internalID: 5923759001594891430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 450
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bddc5ce8f2e4a60800000000000000
+      internalID: 7660112306454256429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_118
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 450
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c4bf3e30cc753d0800000000000000
+      internalID: -3217879091651064795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_119
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 450
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1261971c0875f30800000000000000
+      internalID: 4564258315811824126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_120
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 450
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353df7ced532bc50800000000000000
+      internalID: 6679460428298138936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_121
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 450
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16757ffbce40d2d10800000000000000
+      internalID: 2102342015931340641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_122
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 450
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2784f26cda80f7f40800000000000000
+      internalID: 5728306793485912178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_123
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 450
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0074ad96265b591c0800000000000000
+      internalID: -4497489218572237056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_124
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 450
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f6998eac942860800000000000000
+      internalID: 7504295152552703292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_125
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 450
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebcb2a89c1e6d8c0800000000000000
+      internalID: -3974741365385081874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_126
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 450
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2c40149c5436bc0800000000000000
+      internalID: -3791109730634251531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_127
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 450
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf0b28d99928ea60800000000000000
+      internalID: 7703452903350669232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 386
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7713f8ea0cb9d7b70800000000000000
+      internalID: 8898439690618614135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_129
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 386
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e446e668ae1f6520800000000000000
+      internalID: 2697408410447922404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_130
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 386
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25437dd464d077b20800000000000000
+      internalID: 3131986661464290386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_131
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 386
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991b56b67ed034a50800000000000000
+      internalID: 6504057574443561369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_132
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 386
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620af452fc0695710800000000000000
+      internalID: 1682482378600063014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_133
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 386
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82aaf3668796b960800000000000000
+      internalID: 7617442423202554510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_134
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 386
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611e9af76b7b4cde0800000000000000
+      internalID: -1313723196831571690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_135
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 386
+        width: 34
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb588f4fae4550450800000000000000
+      internalID: 6054338642178508219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_136
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 386
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3c51a36f282b80800000000000000
+      internalID: -8419427398413697833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_137
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 386
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4691d82307333f50800000000000000
+      internalID: 6859887144124651082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_138
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 386
+        width: 24
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf130acae91364dc0800000000000000
+      internalID: -3655179489993805317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_139
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 386
+        width: 24
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a040d143d1e430800000000000000
+      internalID: 3810559039352383794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 322
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38438c0906ac09530800000000000000
+      internalID: 3859807396751225987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_141
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 322
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d461f244dbf422110800000000000000
+      internalID: 1234636922164287053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_142
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d65fb5d7ec74250800000000000000
+      internalID: 5928934472265592203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_143
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 322
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97e7e72d73458d20800000000000000
+      internalID: 3280102108428756890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_144
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae161bfdef9e02d0800000000000000
+      internalID: -3310532831602139481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_145
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334e8762bafadebc0800000000000000
+      internalID: -3752149764910029773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_146
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 322
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ef56aeded4eff10800000000000000
+      internalID: 2305365743495413407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_147
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 322
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678ced381167bff90800000000000000
+      internalID: -6918806584925697930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_148
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 322
+        width: 33
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b997ce8bc50812e40800000000000000
+      internalID: 5629922144917682587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_149
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 322
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce854c9422ecb28e0800000000000000
+      internalID: -1717052186249897748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_150
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 322
+        width: 25
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c146f7ad6099026a0800000000000000
+      internalID: -6476008009444137956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_151
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 322
+        width: 27
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696daee6175ba6dd0800000000000000
+      internalID: -2491979944999332202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_152
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 258
+        width: 28
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680f20455ddfd75b0800000000000000
+      internalID: -5368856088076423034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 256
+        width: 28
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bc555bfbd379450800000000000000
+      internalID: 6095408514259602257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_154
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 256
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef0127db7c79e80800000000000000
+      internalID: -8171843382364013011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_155
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 256
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f0a6c409943b6d0800000000000000
+      internalID: -2975954044655628461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_156
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 256
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb3b05718f43e890800000000000000
+      internalID: -7430007542798140441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_157
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 256
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad15ca0a48022d0800000000000000
+      internalID: -3305496300869264840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_158
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 256
+        width: 28
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9bd37788a718800800000000000000
+      internalID: 612905750833772981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_159
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 256
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25042111e471980e0800000000000000
+      internalID: -2267255313343037358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_160
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 256
+        width: 30
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e340d577e82e2280800000000000000
+      internalID: -9066264025271090201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_161
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 256
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff079d156e66eac0800000000000000
+      internalID: -3826249452837466114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_162
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 256
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66bc17029bffc690800000000000000
+      internalID: -7579563043238136214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_163
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 256
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55517756902378040800000000000000
+      internalID: 4649740156221723989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_164
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 256
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9306bb7d48f5ed8c0800000000000000
+      internalID: -3972632797134495687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_165
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 194
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8d446376af59f40800000000000000
+      internalID: 5734765021725251770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_166
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 194
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fce747617837a0800000000000000
+      internalID: -6397238582277507758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_167
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 194
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7190a316773e750800000000000000
+      internalID: 6333036760482256894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_168
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 194
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b611cb4016778da00800000000000000
+      internalID: 781505793923748203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_169
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 194
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f912d5f03a8b140800000000000000
+      internalID: 4735714294562398064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_170
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 194
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bcecc9fe12dde80800000000000000
+      internalID: -8152322437459031158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_171
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 194
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1deb68de0b8bceb0800000000000000
+      internalID: -4698508890354225894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_172
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 194
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fdd21d015312bb0800000000000000
+      internalID: -4962626968040382598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_173
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 194
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c823e25f46f8590800000000000000
+      internalID: -7669800636183835615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_174
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d424852ed1a1e0800000000000000
+      internalID: -2188223691213186857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_175
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa831d04dfd9cdcb0800000000000000
+      internalID: -4837818188663015254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_176
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 194
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2d4ca88ed078310800000000000000
+      internalID: 1407108700988297959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_177
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 194
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7857eeb60f0ede00800000000000000
+      internalID: 1071310283007809663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_178
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b87cc6f07e841960800000000000000
+      internalID: 7571833489344723127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_179
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 129
+        width: 25
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff67de386ac6dcc90800000000000000
+      internalID: -7147937571133360385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_180
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 131
+        width: 26
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d149073a0b93c6d60800000000000000
+      internalID: 7884740478437987357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_181
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 130
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bd49e71cb6c5370800000000000000
+      internalID: 8312637491015637903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_182
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 130
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efa7586d82d332b0800000000000000
+      internalID: -5605905606363336734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_183
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 130
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b615b5dc858eeca50800000000000000
+      internalID: 6543422776715989355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_184
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 130
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0906f0dcccc199c90800000000000000
+      internalID: -7162662066416820080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_185
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d472a74c889658350800000000000000
+      internalID: 6018332513183344461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_186
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54056359fb309f320800000000000000
+      internalID: 2592107181905432645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_187
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 130
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e577e063e073860800000000000000
+      internalID: 7509486528997318218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_188
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 130
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cb6fb0b84279420800000000000000
+      internalID: 2636616286468488208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_189
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 130
+        width: 24
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34d8d6a22ab53050800000000000000
+      internalID: 5779730354790782012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_190
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 130
+        width: 25
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76d27de5e90bb50800000000000000
+      internalID: 6606954783526709243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_191
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 25
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138b77bc8aba35e80800000000000000
+      internalID: -8191014555800324047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_192
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 27
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043e0b98cf5670340800000000000000
+      internalID: 4829941260694381376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_193
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8700bf34fba49960800000000000000
+      internalID: 7607894736064481167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_194
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 35
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162ece4d5ea30e6f0800000000000000
+      internalID: -657460786801876383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_195
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167d91739487abef0800000000000000
+      internalID: -91628586555287711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_196
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 66
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205f7851c29f6c60800000000000000
+      internalID: 7813625237622181924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_197
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 66
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d46b6201689458e0800000000000000
+      internalID: -1705570816446733102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_198
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e87e47f3f3003d0800000000000000
+      internalID: -3242522189929935204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_199
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 38
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af0b202011492fd0800000000000000
+      internalID: -2366288591691509849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_200
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfdeb2ee4326f0d0800000000000000
+      internalID: -3389482847831138364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_201
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9870f176359ac50c0800000000000000
+      internalID: -4585604144892541047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_202
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 66
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c758c89cb02ae5a70800000000000000
+      internalID: 8817663291947779452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_203
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 34
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cee0153669de2bd0800000000000000
+      internalID: -2652944097474449728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_204
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1461e9f0facb900800000000000000
+      internalID: 701628123574583788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_205
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 27
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7adb2ee4a96e5090800000000000000
+      internalID: -8043875727345722755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_206
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed09ce21bf6cb48d0800000000000000
+      internalID: -2860974356607233826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_207
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd596b019e87df50800000000000000
+      internalID: 6906145307208801782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_208
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987c953ce2258f870800000000000000
+      internalID: 8716807439575009161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: protagonist_universal_209
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ddd9e5c70cbb30800000000000000
+      internalID: 4304323890472933546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8e24245ac2b92b4a87786b929852425
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      protagonist_universal_0: 8149840523686460492
+      protagonist_universal_1: 8721147933951500949
+      protagonist_universal_10: -8136483622324791457
+      protagonist_universal_100: -2986217141991907066
+      protagonist_universal_101: -6863947480744512215
+      protagonist_universal_102: 7108498709014238961
+      protagonist_universal_103: -7187008244464507942
+      protagonist_universal_104: 6782028470242082040
+      protagonist_universal_105: 2872478874089303151
+      protagonist_universal_106: -4554916069435612536
+      protagonist_universal_107: -259166065472938670
+      protagonist_universal_108: -6981730568168930416
+      protagonist_universal_109: -5977094141077998212
+      protagonist_universal_11: -4412651507856495110
+      protagonist_universal_110: 7136470920263570298
+      protagonist_universal_111: 7954636240928112554
+      protagonist_universal_112: 2610453255316988141
+      protagonist_universal_113: 5135279244227986286
+      protagonist_universal_114: -5767736879370929023
+      protagonist_universal_115: -8502939256266141756
+      protagonist_universal_116: 5923759001594891430
+      protagonist_universal_117: 7660112306454256429
+      protagonist_universal_118: -3217879091651064795
+      protagonist_universal_119: 4564258315811824126
+      protagonist_universal_12: 8443677182820495432
+      protagonist_universal_120: 6679460428298138936
+      protagonist_universal_121: 2102342015931340641
+      protagonist_universal_122: 5728306793485912178
+      protagonist_universal_123: -4497489218572237056
+      protagonist_universal_124: 7504295152552703292
+      protagonist_universal_125: -3974741365385081874
+      protagonist_universal_126: -3791109730634251531
+      protagonist_universal_127: 7703452903350669232
+      protagonist_universal_128: 8898439690618614135
+      protagonist_universal_129: 2697408410447922404
+      protagonist_universal_13: -7125543641947149840
+      protagonist_universal_130: 3131986661464290386
+      protagonist_universal_131: 6504057574443561369
+      protagonist_universal_132: 1682482378600063014
+      protagonist_universal_133: 7617442423202554510
+      protagonist_universal_134: -1313723196831571690
+      protagonist_universal_135: 6054338642178508219
+      protagonist_universal_136: -8419427398413697833
+      protagonist_universal_137: 6859887144124651082
+      protagonist_universal_138: -3655179489993805317
+      protagonist_universal_139: 3810559039352383794
+      protagonist_universal_14: 4756263031951143991
+      protagonist_universal_140: 3859807396751225987
+      protagonist_universal_141: 1234636922164287053
+      protagonist_universal_142: 5928934472265592203
+      protagonist_universal_143: 3280102108428756890
+      protagonist_universal_144: -3310532831602139481
+      protagonist_universal_145: -3752149764910029773
+      protagonist_universal_146: 2305365743495413407
+      protagonist_universal_147: -6918806584925697930
+      protagonist_universal_148: 5629922144917682587
+      protagonist_universal_149: -1717052186249897748
+      protagonist_universal_15: -3504889067100078782
+      protagonist_universal_150: -6476008009444137956
+      protagonist_universal_151: -2491979944999332202
+      protagonist_universal_152: -5368856088076423034
+      protagonist_universal_153: 6095408514259602257
+      protagonist_universal_154: -8171843382364013011
+      protagonist_universal_155: -2975954044655628461
+      protagonist_universal_156: -7430007542798140441
+      protagonist_universal_157: -3305496300869264840
+      protagonist_universal_158: 612905750833772981
+      protagonist_universal_159: -2267255313343037358
+      protagonist_universal_16: -5744706523425578293
+      protagonist_universal_160: -9066264025271090201
+      protagonist_universal_161: -3826249452837466114
+      protagonist_universal_162: -7579563043238136214
+      protagonist_universal_163: 4649740156221723989
+      protagonist_universal_164: -3972632797134495687
+      protagonist_universal_165: 5734765021725251770
+      protagonist_universal_166: -6397238582277507758
+      protagonist_universal_167: 6333036760482256894
+      protagonist_universal_168: 781505793923748203
+      protagonist_universal_169: 4735714294562398064
+      protagonist_universal_17: 7633124019280732023
+      protagonist_universal_170: -8152322437459031158
+      protagonist_universal_171: -4698508890354225894
+      protagonist_universal_172: -4962626968040382598
+      protagonist_universal_173: -7669800636183835615
+      protagonist_universal_174: -2188223691213186857
+      protagonist_universal_175: -4837818188663015254
+      protagonist_universal_176: 1407108700988297959
+      protagonist_universal_177: 1071310283007809663
+      protagonist_universal_178: 7571833489344723127
+      protagonist_universal_179: -7147937571133360385
+      protagonist_universal_18: 4063638943670159768
+      protagonist_universal_180: 7884740478437987357
+      protagonist_universal_181: 8312637491015637903
+      protagonist_universal_182: -5605905606363336734
+      protagonist_universal_183: 6543422776715989355
+      protagonist_universal_184: -7162662066416820080
+      protagonist_universal_185: 6018332513183344461
+      protagonist_universal_186: 2592107181905432645
+      protagonist_universal_187: 7509486528997318218
+      protagonist_universal_188: 2636616286468488208
+      protagonist_universal_189: 5779730354790782012
+      protagonist_universal_19: -3307389439715107147
+      protagonist_universal_190: 6606954783526709243
+      protagonist_universal_191: -8191014555800324047
+      protagonist_universal_192: 4829941260694381376
+      protagonist_universal_193: 7607894736064481167
+      protagonist_universal_194: -657460786801876383
+      protagonist_universal_195: -91628586555287711
+      protagonist_universal_196: 7813625237622181924
+      protagonist_universal_197: -1705570816446733102
+      protagonist_universal_198: -3242522189929935204
+      protagonist_universal_199: -2366288591691509849
+      protagonist_universal_2: -4370365327480415052
+      protagonist_universal_20: -7875959031195865829
+      protagonist_universal_200: -3389482847831138364
+      protagonist_universal_201: -4585604144892541047
+      protagonist_universal_202: 8817663291947779452
+      protagonist_universal_203: -2652944097474449728
+      protagonist_universal_204: 701628123574583788
+      protagonist_universal_205: -8043875727345722755
+      protagonist_universal_206: -2860974356607233826
+      protagonist_universal_207: 6906145307208801782
+      protagonist_universal_208: 8716807439575009161
+      protagonist_universal_209: 4304323890472933546
+      protagonist_universal_21: 3208313208446992947
+      protagonist_universal_22: 8951686677535899589
+      protagonist_universal_23: -7700600906306701429
+      protagonist_universal_24: 7785922163610610890
+      protagonist_universal_25: -3854511448619931262
+      protagonist_universal_26: -7914930039099229849
+      protagonist_universal_27: 3045637775703598975
+      protagonist_universal_28: 3100041604231422193
+      protagonist_universal_29: -8606036765027591367
+      protagonist_universal_3: 5223009855578135477
+      protagonist_universal_30: -1061463016548867688
+      protagonist_universal_31: -2552175931789642250
+      protagonist_universal_32: 2154750199472053825
+      protagonist_universal_33: 3171621915264665634
+      protagonist_universal_34: 2860219105790126865
+      protagonist_universal_35: -1795435000530494368
+      protagonist_universal_36: 5148917465936049302
+      protagonist_universal_37: 8556859940832869835
+      protagonist_universal_38: 3376467720326630881
+      protagonist_universal_39: 813525997452073359
+      protagonist_universal_4: -4336758955653642623
+      protagonist_universal_40: -1280472908284044250
+      protagonist_universal_41: -2296722534668008041
+      protagonist_universal_42: -1664845339851186713
+      protagonist_universal_43: 7694207771374119098
+      protagonist_universal_44: 4058697122705502188
+      protagonist_universal_45: -3728413858368660941
+      protagonist_universal_46: -267887544507768935
+      protagonist_universal_47: -6836233374197382801
+      protagonist_universal_48: 7961050525609283411
+      protagonist_universal_49: -7031341229726529781
+      protagonist_universal_5: -8925812805114710443
+      protagonist_universal_50: 4196450877287770069
+      protagonist_universal_51: 5129722490750785044
+      protagonist_universal_52: 2886323623347154625
+      protagonist_universal_53: 3512263041216202345
+      protagonist_universal_54: -629106432006769884
+      protagonist_universal_55: 5832565446554031431
+      protagonist_universal_56: 1277169330999804090
+      protagonist_universal_57: -6876753772068450868
+      protagonist_universal_58: 137616781482391821
+      protagonist_universal_59: 5452203737033208039
+      protagonist_universal_6: -1251249764579885211
+      protagonist_universal_60: -7001981079325495518
+      protagonist_universal_61: -4898351622673671798
+      protagonist_universal_62: -8498231576613890470
+      protagonist_universal_63: 2955487795706672258
+      protagonist_universal_64: -7319370624280452664
+      protagonist_universal_65: 9064706784152957714
+      protagonist_universal_66: 691990755077495759
+      protagonist_universal_67: 7225278677183255394
+      protagonist_universal_68: -3491410845976474894
+      protagonist_universal_69: -2065385707422866205
+      protagonist_universal_7: -237192977017921078
+      protagonist_universal_70: -1116600029221165159
+      protagonist_universal_71: -7451945553310201768
+      protagonist_universal_72: -3774391600127634929
+      protagonist_universal_73: 2781035162265048823
+      protagonist_universal_74: 1278951191373319527
+      protagonist_universal_75: 4159931942982582336
+      protagonist_universal_76: -629684178637640454
+      protagonist_universal_77: -6856715801228392050
+      protagonist_universal_78: 7468620004642165916
+      protagonist_universal_79: 1112818805395439749
+      protagonist_universal_8: 538922462007478646
+      protagonist_universal_80: 1583973200496205777
+      protagonist_universal_81: -395570816153324415
+      protagonist_universal_82: 9183346451390538697
+      protagonist_universal_83: 4767823540559537979
+      protagonist_universal_84: 2859159536334939266
+      protagonist_universal_85: -6363452872713304325
+      protagonist_universal_86: 6264099898962046458
+      protagonist_universal_87: -663900991684359674
+      protagonist_universal_88: 9101909436713282591
+      protagonist_universal_89: -2509952443506067716
+      protagonist_universal_9: 5016261480931127394
+      protagonist_universal_90: -4584986280386405049
+      protagonist_universal_91: 8168822763892440384
+      protagonist_universal_92: 5671059057125400687
+      protagonist_universal_93: -2485756209698556361
+      protagonist_universal_94: 6667381294599746281
+      protagonist_universal_95: 6862380933549563500
+      protagonist_universal_96: -5731118223080008223
+      protagonist_universal_97: -4287293779920702692
+      protagonist_universal_98: 5923018793129322884
+      protagonist_universal_99: 4557077384448677867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

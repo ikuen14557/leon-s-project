@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grid
+  - Interactable
+  - Trap
+  - player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grid
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground1
+    uniqueID: 1740946043
+    locked: 0
+  - name: Ground2
+    uniqueID: 531623739
+    locked: 0
+  - name: Player
+    uniqueID: 3446833545
+    locked: 0
+  - name: Ground3
+    uniqueID: 526034525
+    locked: 0
+  - name: Back
+    uniqueID: 847634189
+    locked: 0
+  - name: Middle
+    uniqueID: 1122995911
+    locked: 0
+  - name: Front
+    uniqueID: 2405743231
+    locked: 0
